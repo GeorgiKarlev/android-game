@@ -1,0 +1,8 @@
+C:/Users/karle/OneDrive/Documents/GitHub/android-game/.utmp/RelWithDebInfo/c68b2o52/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/karle/OneDrive/Documents/GitHub/android-game/.utmp/RelWithDebInfo/c68b2o52/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/karle/OneDrive/Documents/GitHub/android-game/.utmp/RelWithDebInfo/c68b2o52/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/karle/OneDrive/Documents/GitHub/android-game/.utmp/RelWithDebInfo/c68b2o52/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/karle/OneDrive/Documents/GitHub/android-game/.utmp/RelWithDebInfo/c68b2o52/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/karle/OneDrive/Documents/GitHub/android-game/.utmp/RelWithDebInfo/c68b2o52/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/karle/OneDrive/Documents/GitHub/android-game/.utmp/RelWithDebInfo/c68b2o52/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/karle/OneDrive/Documents/GitHub/android-game/.utmp/RelWithDebInfo/c68b2o52/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

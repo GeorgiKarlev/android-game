@@ -8,7 +8,7 @@ PlayerSettings:
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
-  defaultScreenOrientation: 4
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -166,7 +166,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: Georgi8888
+    Android: georgi.androidgame
     Standalone: com.DefaultCompany.2D-URP
   buildNumber:
     Standalone: 0
@@ -391,6 +391,9 @@ PlayerSettings:
       m_SubKind: 
   m_BuildTargetBatching:
   - m_BuildTarget: Standalone
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+  - m_BuildTarget: Android
     m_StaticBatching: 1
     m_DynamicBatching: 0
   m_BuildTargetShaderSettings: []
@@ -779,7 +782,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 2
+  activeInputHandler: 0
   windowsGamepadBackendHint: 0
   cloudProjectId: dd044287-f5b8-43df-960a-e0f07ab1ef1f
   framebufferDepthMemorylessMode: 0
